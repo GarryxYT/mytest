@@ -1,0 +1,17 @@
+{
+  "title": "Versus",
+  "description": "<manga description>",
+  "artist": "Kyoutarou Azuma",
+  "author": "ONE",
+  "cover": "https://cdn.myanimelist.net/images/manga/2/270822l.jpg",
+  "chapters": {
+    "2": {
+      "title": "Chapter 2: Caught In The Middle",
+      "volume": "None",
+      "groups": {
+        "po2scans.com": "/proxy/api/imgur/chapter/7nZpDZ4/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
